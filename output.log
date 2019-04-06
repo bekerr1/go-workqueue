@@ -1,0 +1,1289 @@
+2019/04/05 23:30:17 Logr initialized
+2019/04/05 23:30:17 Starting workers
+2019/04/05 23:30:17 waiting for workers to finish
+2019/04/05 23:30:17 Starting worker 1
+2019/04/05 23:30:17 Inserted channel 1 into waitingQueue
+2019/04/05 23:30:17 waiting for work on work channel
+2019/04/05 23:30:17 Starting worker 0
+2019/04/05 23:30:17 Inserted channel 2 into waitingQueue
+2019/04/05 23:30:17 waiting for work on work channel
+2019/04/05 23:30:17 Starting worker 2
+2019/04/05 23:30:17 Inserted channel 3 into waitingQueue
+2019/04/05 23:30:17 waiting for work on work channel
+2019/04/05 23:30:17 Starting worker 3
+2019/04/05 23:30:17 Starting worker 4
+2019/04/05 23:30:17 Inserted channel 4 into waitingQueue
+2019/04/05 23:30:17 waiting for work on work channel
+2019/04/05 23:30:17 Inserted channel 5 into waitingQueue
+2019/04/05 23:30:17 waiting for work on work channel
+2019/04/05 23:30:55 Logr initialized
+2019/04/05 23:30:55 Starting workers
+2019/04/05 23:30:55 waiting for workers to finish
+2019/04/05 23:30:55 Starting worker 1
+2019/04/05 23:30:55 Inserted channel 1 into waitingQueue
+2019/04/05 23:30:55 waiting for work on work channel
+2019/04/05 23:30:55 Starting worker 2
+2019/04/05 23:30:55 Starting worker 0
+2019/04/05 23:30:55 Inserted channel 2 into waitingQueue
+2019/04/05 23:30:55 waiting for work on work channel
+2019/04/05 23:30:55 Inserted channel 3 into waitingQueue
+2019/04/05 23:30:55 waiting for work on work channel
+2019/04/05 23:30:55 Starting worker 3
+2019/04/05 23:30:55 Inserted channel 4 into waitingQueue
+2019/04/05 23:30:55 waiting for work on work channel
+2019/04/05 23:30:55 Starting worker 4
+2019/04/05 23:30:55 Inserted channel 5 into waitingQueue
+2019/04/05 23:30:55 waiting for work on work channel
+2019/04/05 23:32:54 =======================================
+2019/04/05 23:32:54 		Logr initialized
+2019/04/05 23:32:54 =======================================
+2019/04/05 23:32:54 Starting workers
+2019/04/05 23:32:54 waiting for workers to finish
+2019/04/05 23:32:54 Inserted channel 1 into waitingQueue
+2019/04/05 23:32:54 Starting worker 1
+2019/04/05 23:32:54 waiting for work on work channel
+2019/04/05 23:32:54 Inserted channel 2 into waitingQueue
+2019/04/05 23:32:54 Starting worker 2
+2019/04/05 23:32:54 waiting for work on work channel
+2019/04/05 23:32:54 Inserted channel 3 into waitingQueue
+2019/04/05 23:32:54 Starting worker 3
+2019/04/05 23:32:54 waiting for work on work channel
+2019/04/05 23:32:54 Inserted channel 4 into waitingQueue
+2019/04/05 23:32:54 Starting worker 4
+2019/04/05 23:32:54 waiting for work on work channel
+2019/04/05 23:32:54 Inserted channel 5 into waitingQueue
+2019/04/05 23:32:54 Starting worker 5
+2019/04/05 23:32:54 waiting for work on work channel
+2019/04/05 23:33:33 =======================================
+2019/04/05 23:33:33 		Logr initialized
+2019/04/05 23:33:33 =======================================
+2019/04/05 23:33:33 Starting workers
+2019/04/05 23:33:33 waiting for workers to finish
+2019/04/05 23:33:33 Inserted channel 1 into waitingQueue
+2019/04/05 23:33:33 Starting worker 1
+2019/04/05 23:33:33 waiting for work on work channel
+2019/04/05 23:33:33 Inserted channel 2 into waitingQueue
+2019/04/05 23:33:33 Starting worker 2
+2019/04/05 23:33:33 waiting for work on work channel
+2019/04/05 23:33:33 Inserted channel 3 into waitingQueue
+2019/04/05 23:33:33 Starting worker 3
+2019/04/05 23:33:33 waiting for work on work channel
+2019/04/05 23:33:33 Inserted channel 4 into waitingQueue
+2019/04/05 23:33:33 Starting worker 4
+2019/04/05 23:33:33 waiting for work on work channel
+2019/04/05 23:33:33 Inserted channel 5 into waitingQueue
+2019/04/05 23:33:33 Starting worker 5
+2019/04/05 23:33:33 waiting for work on work channel
+2019/04/05 23:33:49 =======================================
+2019/04/05 23:33:49 		Logr initialized
+2019/04/05 23:33:49 =======================================
+2019/04/05 23:33:49 Starting workers
+2019/04/05 23:33:49 waiting for workers to finish
+2019/04/05 23:33:49 Inserted channel 1 into waitingQueue
+2019/04/05 23:33:49 Starting worker 1
+2019/04/05 23:33:49 waiting for work on work channel
+2019/04/05 23:33:49 Inserted channel 2 into waitingQueue
+2019/04/05 23:33:49 Starting worker 2
+2019/04/05 23:33:49 waiting for work on work channel
+2019/04/05 23:33:49 Inserted channel 3 into waitingQueue
+2019/04/05 23:33:49 Starting worker 3
+2019/04/05 23:33:49 waiting for work on work channel
+2019/04/05 23:33:49 Inserted channel 4 into waitingQueue
+2019/04/05 23:33:49 Starting worker 4
+2019/04/05 23:33:49 waiting for work on work channel
+2019/04/05 23:33:49 Inserted channel 5 into waitingQueue
+2019/04/05 23:33:49 Starting worker 5
+2019/04/05 23:33:49 waiting for work on work channel
+2019/04/05 23:33:56 =======================================
+2019/04/05 23:33:56 		Logr initialized
+2019/04/05 23:33:56 =======================================
+2019/04/05 23:33:56 Starting workers
+2019/04/05 23:33:56 waiting for workers to finish
+2019/04/05 23:33:56 Inserted channel 1 into waitingQueue
+2019/04/05 23:33:56 Starting worker 1
+2019/04/05 23:33:56 waiting for work on work channel
+2019/04/05 23:33:56 Inserted channel 2 into waitingQueue
+2019/04/05 23:33:56 Starting worker 2
+2019/04/05 23:33:56 waiting for work on work channel
+2019/04/05 23:33:56 Inserted channel 3 into waitingQueue
+2019/04/05 23:33:56 Starting worker 3
+2019/04/05 23:33:56 waiting for work on work channel
+2019/04/05 23:33:56 Inserted channel 4 into waitingQueue
+2019/04/05 23:33:56 Starting worker 4
+2019/04/05 23:33:56 waiting for work on work channel
+2019/04/05 23:33:56 Inserted channel 5 into waitingQueue
+2019/04/05 23:33:56 Starting worker 5
+2019/04/05 23:33:56 waiting for work on work channel
+2019/04/05 23:34:09 =======================================
+2019/04/05 23:34:09 		Logr initialized
+2019/04/05 23:34:09 =======================================
+2019/04/05 23:34:09 Starting workers
+2019/04/05 23:34:09 waiting for workers to finish
+2019/04/05 23:34:09 Inserted channel 1 into waitingQueue
+2019/04/05 23:34:09 Starting worker 1
+2019/04/05 23:34:09 waiting for work on work channel
+2019/04/05 23:34:09 Inserted channel 2 into waitingQueue
+2019/04/05 23:34:09 Starting worker 2
+2019/04/05 23:34:09 waiting for work on work channel
+2019/04/05 23:34:09 Inserted channel 3 into waitingQueue
+2019/04/05 23:34:09 Starting worker 3
+2019/04/05 23:34:09 waiting for work on work channel
+2019/04/05 23:34:09 Inserted channel 4 into waitingQueue
+2019/04/05 23:34:09 Starting worker 4
+2019/04/05 23:34:09 waiting for work on work channel
+2019/04/05 23:34:09 Inserted channel 5 into waitingQueue
+2019/04/05 23:34:09 Starting worker 5
+2019/04/05 23:34:09 waiting for work on work channel
+2019/04/05 23:36:44 =======================================
+2019/04/05 23:36:44 		Logr initialized
+2019/04/05 23:36:44 =======================================
+2019/04/05 23:36:44 Starting workers
+2019/04/05 23:36:44 waiting for workers to finish
+2019/04/05 23:36:44 Inserted channel 1 with address 0xc0000a6000 into waitingQueue
+2019/04/05 23:36:44 Starting worker 1
+2019/04/05 23:36:44 waiting for work on work channel
+2019/04/05 23:36:44 Inserted channel 2 with address 0xc0000a8010 into waitingQueue
+2019/04/05 23:36:44 Starting worker 2
+2019/04/05 23:36:44 waiting for work on work channel
+2019/04/05 23:36:44 Inserted channel 3 with address 0xc0000a8000 into waitingQueue
+2019/04/05 23:36:44 Starting worker 3
+2019/04/05 23:36:44 waiting for work on work channel
+2019/04/05 23:36:44 Inserted channel 4 with address 0xc0000a8008 into waitingQueue
+2019/04/05 23:36:44 Starting worker 4
+2019/04/05 23:36:44 waiting for work on work channel
+2019/04/05 23:36:44 Inserted channel 5 with address 0xc0000c0000 into waitingQueue
+2019/04/05 23:36:44 Starting worker 5
+2019/04/05 23:36:44 waiting for work on work channel
+2019/04/06 01:35:52 =======================================
+2019/04/06 01:35:52 		Logr initialized
+2019/04/06 01:35:52 =======================================
+2019/04/06 01:35:52 Starting workers
+2019/04/06 01:35:52 waiting for workers to finish
+2019/04/06 01:35:52 Inserted channel 1 with address 0xc0000a8000 into waitingQueue
+2019/04/06 01:35:52 Starting worker 1
+2019/04/06 01:35:52 waiting for work on work channel
+2019/04/06 01:35:52 Inserted channel 2 with address 0xc0000c6000 into waitingQueue
+2019/04/06 01:35:52 Starting worker 2
+2019/04/06 01:35:52 waiting for work on work channel
+2019/04/06 01:35:52 Inserted channel 3 with address 0xc0000aa008 into waitingQueue
+2019/04/06 01:35:52 Starting worker 3
+2019/04/06 01:35:52 waiting for work on work channel
+2019/04/06 01:35:52 Inserted channel 4 with address 0xc0000aa010 into waitingQueue
+2019/04/06 01:35:52 Starting worker 4
+2019/04/06 01:35:52 waiting for work on work channel
+2019/04/06 01:35:52 Inserted channel 5 with address 0xc0000aa000 into waitingQueue
+2019/04/06 01:35:52 Starting worker 5
+2019/04/06 01:35:52 waiting for work on work channel
+2019/04/06 01:36:43 =======================================
+2019/04/06 01:36:43 		Logr initialized
+2019/04/06 01:36:43 =======================================
+2019/04/06 01:36:43 Starting main WQ run loop on goroutine
+2019/04/06 01:36:43 Starting workers
+2019/04/06 01:36:43 waiting for workers to finish
+2019/04/06 01:36:43 Inserted channel 1 with address 0xc0000a8000 into waitingQueue
+2019/04/06 01:36:43 Starting worker 1
+2019/04/06 01:36:43 waiting for work on work channel
+2019/04/06 01:36:43 Inserted channel 2 with address 0xc0000ac000 into waitingQueue
+2019/04/06 01:36:43 Starting worker 2
+2019/04/06 01:36:43 waiting for work on work channel
+2019/04/06 01:36:43 Inserted channel 3 with address 0xc0000ac008 into waitingQueue
+2019/04/06 01:36:43 Starting worker 3
+2019/04/06 01:36:43 waiting for work on work channel
+2019/04/06 01:36:43 Inserted channel 4 with address 0xc0000ac010 into waitingQueue
+2019/04/06 01:36:43 Starting worker 4
+2019/04/06 01:36:43 waiting for work on work channel
+2019/04/06 01:36:43 Inserted channel 5 with address 0xc0000c4000 into waitingQueue
+2019/04/06 01:36:43 Starting worker 5
+2019/04/06 01:36:43 waiting for work on work channel
+2019/04/06 01:44:47 =======================================
+2019/04/06 01:44:47 		Logr initialized
+2019/04/06 01:44:47 =======================================
+2019/04/06 01:44:47 Starting main WQ run loop on goroutine
+2019/04/06 01:44:47 Starting workers
+2019/04/06 01:44:47 waiting for workers to finish
+2019/04/06 01:44:47 no waiting work. Starting waiting loop
+2019/04/06 01:44:47 All workers are busy. Running wait loop to clear out work queue
+2019/04/06 01:44:47 len wq.work check claims > 0. Actual 1
+2019/04/06 01:44:47 Inserted channel 1 with address 0xc00008c020 into waitingQueue
+2019/04/06 01:44:47 Starting worker 1
+2019/04/06 01:44:47 waiting for work on work channel
+2019/04/06 01:44:47 Inserted channel 2 with address 0xc00008c018 into waitingQueue
+2019/04/06 01:44:47 Starting worker 2
+2019/04/06 01:44:47 waiting for work on work channel
+2019/04/06 01:44:47 Inserted channel 3 with address 0xc0000b2008 into waitingQueue
+2019/04/06 01:44:47 Starting worker 3
+2019/04/06 01:44:47 waiting for work on work channel
+2019/04/06 01:44:47 Inserted channel 4 with address 0xc0000d0000 into waitingQueue
+2019/04/06 01:44:47 Starting worker 4
+2019/04/06 01:44:47 waiting for work on work channel
+2019/04/06 01:44:47 Inserted channel 5 with address 0xc0000b2000 into waitingQueue
+2019/04/06 01:44:47 Starting worker 5
+2019/04/06 01:44:47 waiting for work on work channel
+2019/04/06 01:47:24 =======================================
+2019/04/06 01:47:24 		Logr initialized
+2019/04/06 01:47:24 =======================================
+2019/04/06 01:47:24 Starting main WQ run loop on goroutine
+2019/04/06 01:47:24 Starting workers
+2019/04/06 01:47:24 waiting for workers to finish
+2019/04/06 01:47:24 Sleeping to wait for workers
+2019/04/06 01:47:24 Inserted channel 1 with address 0xc0000a8000 into waitingQueue
+2019/04/06 01:47:24 Starting worker 1
+2019/04/06 01:47:24 waiting for work on work channel
+2019/04/06 01:47:24 Inserted channel 2 with address 0xc00000c040 into waitingQueue
+2019/04/06 01:47:24 Starting worker 2
+2019/04/06 01:47:24 waiting for work on work channel
+2019/04/06 01:47:24 Inserted channel 3 with address 0xc00000c048 into waitingQueue
+2019/04/06 01:47:24 Starting worker 3
+2019/04/06 01:47:24 waiting for work on work channel
+2019/04/06 01:47:24 Inserted channel 4 with address 0xc00000c050 into waitingQueue
+2019/04/06 01:47:24 Starting worker 4
+2019/04/06 01:47:24 waiting for work on work channel
+2019/04/06 01:47:24 Inserted channel 5 with address 0xc0000bc000 into waitingQueue
+2019/04/06 01:47:24 Starting worker 5
+2019/04/06 01:47:24 waiting for work on work channel
+2019/04/06 01:47:29 About to work
+2019/04/06 01:47:29 Work ready signal...check if there is a worker thread waiting
+2019/04/06 01:47:29 Worker thread available
+2019/04/06 01:47:29 Sending signal on channel %v 0xc0000bc008
+2019/04/06 01:47:29 Got context on a waiting work channel
+2019/04/06 01:47:29 Taking channel out of waiting and inserting into busy
+2019/04/06 01:47:29 Finished performing string combine...sleeping for a bit
+2019/04/06 01:47:39 pushing channel with address 0xc0000a8000 back in waiting work
+2019/04/06 01:48:53 =======================================
+2019/04/06 01:48:53 		Logr initialized
+2019/04/06 01:48:53 =======================================
+2019/04/06 01:48:53 Starting main WQ run loop on goroutine
+2019/04/06 01:48:53 Starting workers
+2019/04/06 01:48:53 waiting for workers to finish
+2019/04/06 01:48:53 Sleeping to wait for workers
+2019/04/06 01:48:53 Inserted channel 1 with address 0xc0000a8000 into waitingQueue
+2019/04/06 01:48:53 Starting worker 1
+2019/04/06 01:48:53 waiting for work on work channel
+2019/04/06 01:48:53 Inserted channel 2 with address 0xc00000c040 into waitingQueue
+2019/04/06 01:48:53 Starting worker 2
+2019/04/06 01:48:53 waiting for work on work channel
+2019/04/06 01:48:53 Inserted channel 3 with address 0xc00000c048 into waitingQueue
+2019/04/06 01:48:53 Starting worker 3
+2019/04/06 01:48:53 waiting for work on work channel
+2019/04/06 01:48:53 Inserted channel 4 with address 0xc00000c050 into waitingQueue
+2019/04/06 01:48:53 Starting worker 4
+2019/04/06 01:48:53 waiting for work on work channel
+2019/04/06 01:48:53 Inserted channel 5 with address 0xc0000bc000 into waitingQueue
+2019/04/06 01:48:53 Starting worker 5
+2019/04/06 01:48:53 waiting for work on work channel
+2019/04/06 01:48:58 About to work
+2019/04/06 01:48:58 Work ready signal...check if there is a worker thread waiting
+2019/04/06 01:48:58 Worker thread available
+2019/04/06 01:48:58 Sending signal on channel  0xc0000ea000
+2019/04/06 01:48:58 Got context on a waiting work channel
+2019/04/06 01:48:58 Taking channel out of waiting and inserting into busy
+2019/04/06 01:48:58 Finished performing string combine...sleeping for a bit
+2019/04/06 01:49:08 pushing channel with address 0xc0000a8000 back in waiting work
+2019/04/06 01:51:04 =======================================
+2019/04/06 01:51:04 		Logr initialized
+2019/04/06 01:51:04 =======================================
+2019/04/06 01:51:04 Starting main WQ run loop on goroutine
+2019/04/06 01:51:04 Starting workers
+2019/04/06 01:51:04 waiting for workers to finish
+2019/04/06 01:51:04 Sleeping to wait for workers
+2019/04/06 01:51:04 Inserted channel 1 with address 0xc0000a8000 into waitingQueue
+2019/04/06 01:51:04 Starting worker 1
+2019/04/06 01:51:04 waiting for work on work channel
+2019/04/06 01:51:04 Inserted channel 2 with address 0xc0000e2000 into waitingQueue
+2019/04/06 01:51:04 Starting worker 2
+2019/04/06 01:51:04 waiting for work on work channel
+2019/04/06 01:51:04 Inserted channel 3 with address 0xc0000be000 into waitingQueue
+2019/04/06 01:51:04 Starting worker 3
+2019/04/06 01:51:04 waiting for work on work channel
+2019/04/06 01:51:04 Inserted channel 4 with address 0xc00000c040 into waitingQueue
+2019/04/06 01:51:04 Starting worker 4
+2019/04/06 01:51:04 waiting for work on work channel
+2019/04/06 01:51:04 Inserted channel 5 with address 0xc0000be008 into waitingQueue
+2019/04/06 01:51:04 Starting worker 5
+2019/04/06 01:51:04 waiting for work on work channel
+2019/04/06 01:51:09 About to work
+2019/04/06 01:51:09 Work ready signal...check if there is a worker thread waiting
+2019/04/06 01:51:09 Worker thread available
+2019/04/06 01:51:09 Sending signal on channel  0xc0000e2008
+2019/04/06 01:51:09 Got context on a waiting work channel
+2019/04/06 01:51:09 Taking channel out of waiting and inserting into busy
+2019/04/06 01:51:09 waiting channels  [0xc000082180 0xc0000823c0 0xc0000820c0 0xc000082300] 4
+2019/04/06 01:51:09 Finished performing string combine...sleeping for a bit
+2019/04/06 01:51:19 pushing channel with address 0xc0000a8000 back in waiting work
+2019/04/06 01:53:44 =======================================
+2019/04/06 01:53:44 		Logr initialized
+2019/04/06 01:53:44 =======================================
+2019/04/06 01:53:44 Starting main WQ run loop on goroutine
+2019/04/06 01:53:44 Starting workers
+2019/04/06 01:53:44 waiting for workers to finish
+2019/04/06 01:53:44 Sleeping to wait for workers
+2019/04/06 01:53:44 Inserted channel 1 with address 0xc0000a8000 into waitingQueue
+2019/04/06 01:53:44 Starting worker 1
+2019/04/06 01:53:44 waiting for work on work channel
+2019/04/06 01:53:44 Inserted channel 2 with address 0xc0000d6000 into waitingQueue
+2019/04/06 01:53:44 Starting worker 2
+2019/04/06 01:53:44 waiting for work on work channel
+2019/04/06 01:53:44 Inserted channel 3 with address 0xc00000c040 into waitingQueue
+2019/04/06 01:53:44 Starting worker 3
+2019/04/06 01:53:44 waiting for work on work channel
+2019/04/06 01:53:44 Inserted channel 4 with address 0xc0000ac008 into waitingQueue
+2019/04/06 01:53:44 Starting worker 4
+2019/04/06 01:53:44 waiting for work on work channel
+2019/04/06 01:53:44 Inserted channel 5 with address 0xc0000ac000 into waitingQueue
+2019/04/06 01:53:44 Starting worker 5
+2019/04/06 01:53:44 waiting for work on work channel
+2019/04/06 01:53:49 About to work
+2019/04/06 01:53:49 Work ready signal...check if there is a worker thread waiting
+2019/04/06 01:53:49 Worker thread available
+2019/04/06 01:53:49 Sending signal on channel  0xc000104000
+2019/04/06 01:53:49 Got context on a waiting work channel
+2019/04/06 01:53:49 Taking channel out of waiting and inserting into busy
+2019/04/06 01:53:49 waiting channels  [0xc0000823c0 0xc000082180 0xc000082300 0xc0000820c0] 4
+2019/04/06 01:53:49 Finished performing string combine Hello, World!
+2019/04/06 01:53:49 ...sleeping for a bit
+2019/04/06 01:53:51 Work ready signal...check if there is a worker thread waiting
+2019/04/06 01:53:51 Worker thread available
+2019/04/06 01:53:51 Sending signal on channel  0xc0000d6010
+2019/04/06 01:53:51 Got context on a waiting work channel
+2019/04/06 01:53:51 Taking channel out of waiting and inserting into busy
+2019/04/06 01:53:51 waiting channels  [0xc000082180 0xc000082300 0xc0000820c0] 3
+2019/04/06 01:53:51 Finished performing string combine Foo, Bar!
+2019/04/06 01:53:51 ...sleeping for a bit
+2019/04/06 01:53:53 Work ready signal...check if there is a worker thread waiting
+2019/04/06 01:53:53 Worker thread available
+2019/04/06 01:53:53 Sending signal on channel  0xc000104010
+2019/04/06 01:53:53 Got context on a waiting work channel
+2019/04/06 01:53:53 Taking channel out of waiting and inserting into busy
+2019/04/06 01:53:53 waiting channels  [0xc000082300 0xc0000820c0] 2
+2019/04/06 01:53:53 Finished performing string combine Bar, Baz!
+2019/04/06 01:53:53 ...sleeping for a bit
+2019/04/06 01:53:59 pushing channel with address 0xc0000a8000 back in waiting work
+2019/04/06 01:54:01 pushing channel with address 0xc0000d6000 back in waiting work
+2019/04/06 01:54:03 pushing channel with address 0xc00000c040 back in waiting work
+2019/04/06 10:35:57 =======================================
+2019/04/06 10:35:57 		Logr initialized
+2019/04/06 10:35:57 =======================================
+2019/04/06 10:35:57 Starting main WQ run loop on goroutine
+2019/04/06 10:35:57 Starting workers
+2019/04/06 10:35:57 waiting for workers to finish
+2019/04/06 10:35:57 Sleeping to wait for workers
+2019/04/06 10:35:57 Inserted channel 1 with address 0xc0000a8000 into waitingQueue
+2019/04/06 10:35:57 Starting worker 1
+2019/04/06 10:35:57 waiting for work on work channel
+2019/04/06 10:35:57 Inserted channel 2 with address 0xc00000c040 into waitingQueue
+2019/04/06 10:35:57 Starting worker 2
+2019/04/06 10:35:57 waiting for work on work channel
+2019/04/06 10:35:57 Inserted channel 3 with address 0xc00000c048 into waitingQueue
+2019/04/06 10:35:57 Starting worker 3
+2019/04/06 10:35:57 waiting for work on work channel
+2019/04/06 10:35:57 Inserted channel 4 with address 0xc00000c050 into waitingQueue
+2019/04/06 10:35:57 Starting worker 4
+2019/04/06 10:35:57 waiting for work on work channel
+2019/04/06 10:35:57 Inserted channel 5 with address 0xc0000be000 into waitingQueue
+2019/04/06 10:35:57 Starting worker 5
+2019/04/06 10:35:57 waiting for work on work channel
+2019/04/06 10:36:02 About to work
+2019/04/06 10:36:02 Work ready signal...check if there is a worker thread waiting
+2019/04/06 10:36:02 Worker thread available
+2019/04/06 10:36:02 Sending signal on channel  0xc00000c058
+2019/04/06 10:36:02 Got message on a waiting work channel
+2019/04/06 10:36:02 Taking channel out of waiting and inserting into busy
+2019/04/06 10:36:02 waiting channels  [0xc000082300 0xc0000823c0 0xc000082180 0xc0000820c0] 4
+2019/04/06 10:36:02 Finished performing string combine Hello, World!
+2019/04/06 10:36:02 ...sleeping for a bit
+2019/04/06 10:36:03 Work ready signal...check if there is a worker thread waiting
+2019/04/06 10:36:03 Worker thread available
+2019/04/06 10:36:03 Sending signal on channel  0xc0000a8018
+2019/04/06 10:36:03 Got message on a waiting work channel
+2019/04/06 10:36:03 Taking channel out of waiting and inserting into busy
+2019/04/06 10:36:03 waiting channels  [0xc0000823c0 0xc000082180 0xc0000820c0] 3
+2019/04/06 10:36:03 Finished performing string combine Foo, Bar!
+2019/04/06 10:36:03 ...sleeping for a bit
+2019/04/06 10:36:04 Work ready signal...check if there is a worker thread waiting
+2019/04/06 10:36:04 Worker thread available
+2019/04/06 10:36:04 Sending signal on channel  0xc00000c060
+2019/04/06 10:36:04 Got message on a waiting work channel
+2019/04/06 10:36:04 Taking channel out of waiting and inserting into busy
+2019/04/06 10:36:04 waiting channels  [0xc000082180 0xc0000820c0] 2
+2019/04/06 10:36:04 Finished performing string combine Bar, Baz!
+2019/04/06 10:36:04 ...sleeping for a bit
+2019/04/06 10:36:05 Work ready signal...check if there is a worker thread waiting
+2019/04/06 10:36:05 Worker thread available
+2019/04/06 10:36:05 Sending signal on channel  0xc00000c068
+2019/04/06 10:36:05 Got message on a waiting work channel
+2019/04/06 10:36:05 Taking channel out of waiting and inserting into busy
+2019/04/06 10:36:05 waiting channels  [0xc0000820c0] 1
+2019/04/06 10:36:05 Finished performing string combine Baz, Spaz!
+2019/04/06 10:36:05 ...sleeping for a bit
+2019/04/06 10:36:06 Work ready signal...check if there is a worker thread waiting
+2019/04/06 10:36:06 Worker thread available
+2019/04/06 10:36:06 Sending signal on channel  0xc0000a8020
+2019/04/06 10:36:06 Got message on a waiting work channel
+2019/04/06 10:36:06 Taking channel out of waiting and inserting into busy
+2019/04/06 10:36:06 waiting channels  [] 0
+2019/04/06 10:36:06 Finished performing string combine Raz, Taz!
+2019/04/06 10:36:06 ...sleeping for a bit
+2019/04/06 10:36:07 no waiting work. Starting waiting loop
+2019/04/06 10:36:07 All workers are busy. Running wait loop to clear out work queue
+2019/04/06 10:36:07 len wq.work check claims > 0. Actual 1
+2019/04/06 10:36:12 pushing channel with address 0xc0000a8000 back in waiting work
+2019/04/06 10:36:12 got work waiting signal from goroutine on channel 0xc0000a4058
+2019/04/06 10:36:12 Worker thread available
+2019/04/06 10:36:12 Sending signal on channel  0xc0000be010
+2019/04/06 10:36:12 len wq.work after signal 1
+2019/04/06 10:36:12 len wq.work check claims > 0. Actual 1
+2019/04/06 10:36:12 Got message on a waiting work channel
+2019/04/06 10:36:12 Taking channel out of waiting and inserting into busy
+2019/04/06 10:36:12 waiting channels  [] 0
+2019/04/06 10:36:12 Finished performing string combine Mad, Lad!
+2019/04/06 10:36:12 ...sleeping for a bit
+2019/04/06 10:36:13 pushing channel with address 0xc00000c040 back in waiting work
+2019/04/06 10:36:13 got work waiting signal from goroutine on channel 0xc0000a4058
+2019/04/06 10:36:13 Worker thread available
+2019/04/06 10:36:13 Sending signal on channel  0xc0000be018
+2019/04/06 10:36:13 len wq.work after signal 0
+2019/04/06 10:36:13 len wq.work check claims 0. Actual 0
+2019/04/06 10:36:13 Got message on a waiting work channel
+2019/04/06 10:36:13 Taking channel out of waiting and inserting into busy
+2019/04/06 10:39:45 =======================================
+2019/04/06 10:39:45 		Logr initialized
+2019/04/06 10:39:45 =======================================
+2019/04/06 10:39:45 Starting main WQ run loop on goroutine
+2019/04/06 10:39:45 Starting workers
+2019/04/06 10:39:45 waiting for workers to finish
+2019/04/06 10:39:45 Sleeping to wait for workers
+2019/04/06 10:39:45 Inserted channel 1 with address 0xc0000a8000 into waitingQueue
+2019/04/06 10:39:45 Starting worker 1
+2019/04/06 10:39:45 waiting for work on work channel
+2019/04/06 10:39:45 Inserted channel 2 with address 0xc0000da000 into waitingQueue
+2019/04/06 10:39:45 Starting worker 2
+2019/04/06 10:39:45 waiting for work on work channel
+2019/04/06 10:39:45 Inserted channel 3 with address 0xc0000aa000 into waitingQueue
+2019/04/06 10:39:45 Starting worker 3
+2019/04/06 10:39:45 waiting for work on work channel
+2019/04/06 10:39:45 Inserted channel 4 with address 0xc0000aa008 into waitingQueue
+2019/04/06 10:39:45 Starting worker 4
+2019/04/06 10:39:45 waiting for work on work channel
+2019/04/06 10:39:45 Inserted channel 5 with address 0xc00000c040 into waitingQueue
+2019/04/06 10:39:45 Starting worker 5
+2019/04/06 10:39:45 waiting for work on work channel
+2019/04/06 10:39:50 About to work
+2019/04/06 10:39:50 Work ready signal...check if there is a worker thread waiting
+2019/04/06 10:39:50 Worker thread available
+2019/04/06 10:39:50 Sending signal on channel  0xc0000da010
+2019/04/06 10:39:50 Got message on a waiting work channel
+2019/04/06 10:39:50 Taking channel out of waiting and inserting into busy
+2019/04/06 10:39:50 waiting channels  [0xc0000823c0 0xc000082300 0xc0000820c0 0xc000082180] 4
+2019/04/06 10:39:50 Finished performing string combine Hello, World!
+2019/04/06 10:39:50 ...sleeping for a bit
+2019/04/06 10:39:51 Work ready signal...check if there is a worker thread waiting
+2019/04/06 10:39:51 Worker thread available
+2019/04/06 10:39:51 Sending signal on channel  0xc0000fc008
+2019/04/06 10:39:51 Got message on a waiting work channel
+2019/04/06 10:39:51 Taking channel out of waiting and inserting into busy
+2019/04/06 10:39:51 waiting channels  [0xc000082300 0xc0000820c0 0xc000082180] 3
+2019/04/06 10:39:51 Finished performing string combine Foo, Bar!
+2019/04/06 10:39:51 ...sleeping for a bit
+2019/04/06 10:39:52 Work ready signal...check if there is a worker thread waiting
+2019/04/06 10:39:52 Worker thread available
+2019/04/06 10:39:52 Sending signal on channel  0xc0000da018
+2019/04/06 10:39:52 Got message on a waiting work channel
+2019/04/06 10:39:52 Taking channel out of waiting and inserting into busy
+2019/04/06 10:39:52 waiting channels  [0xc0000820c0 0xc000082180] 2
+2019/04/06 10:39:52 Finished performing string combine Bar, Baz!
+2019/04/06 10:39:52 ...sleeping for a bit
+2019/04/06 10:39:53 Work ready signal...check if there is a worker thread waiting
+2019/04/06 10:39:53 Worker thread available
+2019/04/06 10:39:53 Sending signal on channel  0xc0000da020
+2019/04/06 10:39:53 Got message on a waiting work channel
+2019/04/06 10:39:53 Taking channel out of waiting and inserting into busy
+2019/04/06 10:39:53 waiting channels  [0xc000082180] 1
+2019/04/06 10:39:53 Finished performing string combine Baz, Spaz!
+2019/04/06 10:39:53 ...sleeping for a bit
+2019/04/06 10:39:54 Work ready signal...check if there is a worker thread waiting
+2019/04/06 10:39:54 Worker thread available
+2019/04/06 10:39:54 Sending signal on channel  0xc0000da028
+2019/04/06 10:39:54 Got message on a waiting work channel
+2019/04/06 10:39:54 Taking channel out of waiting and inserting into busy
+2019/04/06 10:39:54 waiting channels  [] 0
+2019/04/06 10:39:54 Finished performing string combine Raz, Taz!
+2019/04/06 10:39:54 ...sleeping for a bit
+2019/04/06 10:39:55 no waiting work. Starting waiting loop
+2019/04/06 10:39:55 All workers are busy. Running wait loop to clear out work queue
+2019/04/06 10:39:55 len wq.work check claims > 0. Actual 1
+2019/04/06 10:40:00 pushing channel with address 0xc0000a8000 back in waiting work
+2019/04/06 10:40:00 got work waiting signal from goroutine on channel 0xc0000a4058
+2019/04/06 10:40:00 len wq.work during signal 1
+2019/04/06 10:40:00 Worker thread available
+2019/04/06 10:40:00 Sending signal on channel  0xc0000da030
+2019/04/06 10:40:00 len wq.work after signal 1
+2019/04/06 10:40:00 len wq.work check claims > 0. Actual 1
+2019/04/06 10:40:00 Got message on a waiting work channel
+2019/04/06 10:40:00 Taking channel out of waiting and inserting into busy
+2019/04/06 10:40:00 waiting channels  [] 0
+2019/04/06 10:40:00 Finished performing string combine Mad, Lad!
+2019/04/06 10:40:00 ...sleeping for a bit
+2019/04/06 10:40:01 pushing channel with address 0xc0000da000 back in waiting work
+2019/04/06 10:40:01 got work waiting signal from goroutine on channel 0xc0000a4058
+2019/04/06 10:40:01 len wq.work during signal 0
+2019/04/06 10:40:01 len wq.work check claims 0. Actual 0
+2019/04/06 10:40:02 pushing channel with address 0xc0000aa000 back in waiting work
+2019/04/06 10:40:03 pushing channel with address 0xc0000aa008 back in waiting work
+2019/04/06 10:40:04 pushing channel with address 0xc00000c040 back in waiting work
+2019/04/06 10:40:10 pushing channel with address 0xc0000a8000 back in waiting work
+2019/04/06 10:42:04 =======================================
+2019/04/06 10:42:04 		Logr initialized
+2019/04/06 10:42:04 =======================================
+2019/04/06 10:42:04 Starting main WQ run loop on goroutine
+2019/04/06 10:42:04 Starting workers
+2019/04/06 10:42:04 waiting for workers to finish
+2019/04/06 10:42:04 Sleeping to wait for workers
+2019/04/06 10:42:04 Inserted channel 1 with address 0xc0000a8000 into waitingQueue
+2019/04/06 10:42:04 Starting worker 1
+2019/04/06 10:42:04 waiting for work on work channel
+2019/04/06 10:42:04 Inserted channel 2 with address 0xc0000c2000 into waitingQueue
+2019/04/06 10:42:04 Starting worker 2
+2019/04/06 10:42:04 waiting for work on work channel
+2019/04/06 10:42:04 Inserted channel 3 with address 0xc00000c048 into waitingQueue
+2019/04/06 10:42:04 Starting worker 3
+2019/04/06 10:42:04 waiting for work on work channel
+2019/04/06 10:42:04 Inserted channel 4 with address 0xc00000c050 into waitingQueue
+2019/04/06 10:42:04 Starting worker 4
+2019/04/06 10:42:04 waiting for work on work channel
+2019/04/06 10:42:04 Inserted channel 5 with address 0xc00000c040 into waitingQueue
+2019/04/06 10:42:04 Starting worker 5
+2019/04/06 10:42:04 waiting for work on work channel
+2019/04/06 10:42:09 About to work
+2019/04/06 10:42:09 Work ready signal...check if there is a worker thread waiting
+2019/04/06 10:42:09 Worker thread available
+2019/04/06 10:42:09 Sending signal on channel  0xc0000a8010
+2019/04/06 10:42:09 Got message on a waiting work channel
+2019/04/06 10:42:09 Taking channel out of waiting and inserting into busy
+2019/04/06 10:42:09 waiting channels  [0xc0000820c0 0xc0000823c0 0xc000082180 0xc000082300] 4
+2019/04/06 10:42:09 Finished performing string combine Hello, World!
+2019/04/06 10:42:09 ...sleeping for a bit
+2019/04/06 10:42:10 Work ready signal...check if there is a worker thread waiting
+2019/04/06 10:42:10 Worker thread available
+2019/04/06 10:42:10 Sending signal on channel  0xc0000a8020
+2019/04/06 10:42:10 Got message on a waiting work channel
+2019/04/06 10:42:10 Taking channel out of waiting and inserting into busy
+2019/04/06 10:42:10 waiting channels  [0xc0000823c0 0xc000082180 0xc000082300] 3
+2019/04/06 10:42:10 Finished performing string combine Foo, Bar!
+2019/04/06 10:42:10 ...sleeping for a bit
+2019/04/06 10:42:11 Work ready signal...check if there is a worker thread waiting
+2019/04/06 10:42:11 Worker thread available
+2019/04/06 10:42:11 Sending signal on channel  0xc0000a8028
+2019/04/06 10:42:11 Got message on a waiting work channel
+2019/04/06 10:42:11 Taking channel out of waiting and inserting into busy
+2019/04/06 10:42:11 waiting channels  [0xc000082180 0xc000082300] 2
+2019/04/06 10:42:11 Finished performing string combine Bar, Baz!
+2019/04/06 10:42:11 ...sleeping for a bit
+2019/04/06 10:42:12 Work ready signal...check if there is a worker thread waiting
+2019/04/06 10:42:12 Worker thread available
+2019/04/06 10:42:12 Sending signal on channel  0xc0000f0008
+2019/04/06 10:42:12 Got message on a waiting work channel
+2019/04/06 10:42:12 Taking channel out of waiting and inserting into busy
+2019/04/06 10:42:12 waiting channels  [0xc000082300] 1
+2019/04/06 10:42:12 Finished performing string combine Baz, Spaz!
+2019/04/06 10:42:12 ...sleeping for a bit
+2019/04/06 10:42:13 Work ready signal...check if there is a worker thread waiting
+2019/04/06 10:42:13 Worker thread available
+2019/04/06 10:42:13 Sending signal on channel  0xc0000f0010
+2019/04/06 10:42:13 Got message on a waiting work channel
+2019/04/06 10:42:13 Taking channel out of waiting and inserting into busy
+2019/04/06 10:42:13 waiting channels  [] 0
+2019/04/06 10:42:13 Finished performing string combine Raz, Taz!
+2019/04/06 10:42:13 ...sleeping for a bit
+2019/04/06 10:42:14 no waiting work. Starting waiting loop
+2019/04/06 10:42:14 All workers are busy. Running wait loop to clear out work queue
+2019/04/06 10:42:14 len wq.work check claims > 0. Actual 1
+2019/04/06 10:42:19 pushing channel with address 0xc0000a8000 back in waiting work
+2019/04/06 10:42:19 got work waiting signal from goroutine on channel 0xc0000a4058
+2019/04/06 10:42:19 len wq.work during signal 1
+2019/04/06 10:42:19 Worker thread available
+2019/04/06 10:42:19 Sending signal on channel  0xc0000a8030
+2019/04/06 10:42:19 len wq.work after signal 1
+2019/04/06 10:42:19 len wq.work check claims > 0. Actual 1
+2019/04/06 10:42:19 Got message on a waiting work channel
+2019/04/06 10:42:19 Taking channel out of waiting and inserting into busy
+2019/04/06 10:42:19 waiting channels  [] 0
+2019/04/06 10:42:19 Finished performing string combine Mad, Lad!
+2019/04/06 10:42:19 ...sleeping for a bit
+2019/04/06 10:42:20 pushing channel with address 0xc0000c2000 back in waiting work
+2019/04/06 10:42:20 got work waiting signal from goroutine on channel 0xc0000a4058
+2019/04/06 10:42:20 len wq.work during signal 0
+2019/04/06 10:42:20 len wq.work check claims 0. Actual 0
+2019/04/06 10:42:21 pushing channel with address 0xc00000c048 back in waiting work
+2019/04/06 10:42:22 pushing channel with address 0xc00000c050 back in waiting work
+2019/04/06 10:42:23 pushing channel with address 0xc00000c040 back in waiting work
+2019/04/06 10:42:29 pushing channel with address 0xc0000a8000 back in waiting work
+2019/04/06 10:44:53 =======================================
+2019/04/06 10:44:53 		Logr initialized
+2019/04/06 10:44:53 =======================================
+2019/04/06 10:44:53 
+2019/04/06 10:44:53 Starting main WQ run loop on goroutine
+2019/04/06 10:44:53 Starting workers
+2019/04/06 10:44:53 waiting for workers to finish
+2019/04/06 10:44:53 Sleeping to wait for workers
+2019/04/06 10:44:53 Inserted channel 1 with address 0xc0000a8000 into waitingQueue
+2019/04/06 10:44:53 Starting worker 1
+2019/04/06 10:44:53 waiting for work on work channel
+2019/04/06 10:44:53 Inserted channel 2 with address 0xc0000d6000 into waitingQueue
+2019/04/06 10:44:53 Starting worker 2
+2019/04/06 10:44:53 waiting for work on work channel
+2019/04/06 10:44:53 Inserted channel 3 with address 0xc0000ac000 into waitingQueue
+2019/04/06 10:44:53 Starting worker 3
+2019/04/06 10:44:53 waiting for work on work channel
+2019/04/06 10:44:53 Inserted channel 4 with address 0xc0000ac008 into waitingQueue
+2019/04/06 10:44:53 Starting worker 4
+2019/04/06 10:44:53 waiting for work on work channel
+2019/04/06 10:44:53 Inserted channel 5 with address 0xc00000c040 into waitingQueue
+2019/04/06 10:44:53 Starting worker 5
+2019/04/06 10:44:53 waiting for work on work channel
+2019/04/06 10:44:58 
+2019/04/06 10:44:58 About to work
+2019/04/06 10:44:58 
+2019/04/06 10:44:58 Work ready signal...check if there is a worker thread waiting
+2019/04/06 10:44:58 
+2019/04/06 10:44:58 Worker thread available
+2019/04/06 10:44:58 Sending signal on channel  0xc0000a8010
+2019/04/06 10:44:58 
+2019/04/06 10:44:58 Got message on a waiting work channel
+2019/04/06 10:44:58 Taking channel out of waiting and inserting into busy
+2019/04/06 10:44:58 
+2019/04/06 10:44:58 waiting channels  [0xc0000820c0 0xc000082300 0xc0000823c0 0xc000082180] 4
+2019/04/06 10:44:58 
+2019/04/06 10:44:58 working channels  [] 0
+2019/04/06 10:44:58 
+2019/04/06 10:44:58 Finished performing string combine Hello, World!
+2019/04/06 10:44:58 ...sleeping for a bit
+2019/04/06 10:44:59 
+2019/04/06 10:44:59 Work ready signal...check if there is a worker thread waiting
+2019/04/06 10:44:59 
+2019/04/06 10:44:59 Worker thread available
+2019/04/06 10:44:59 Sending signal on channel  0xc0000a8020
+2019/04/06 10:44:59 
+2019/04/06 10:44:59 Got message on a waiting work channel
+2019/04/06 10:44:59 Taking channel out of waiting and inserting into busy
+2019/04/06 10:44:59 
+2019/04/06 10:44:59 waiting channels  [0xc000082300 0xc0000823c0 0xc000082180] 3
+2019/04/06 10:44:59 
+2019/04/06 10:44:59 working channels  [] 0
+2019/04/06 10:44:59 
+2019/04/06 10:44:59 Finished performing string combine Foo, Bar!
+2019/04/06 10:44:59 ...sleeping for a bit
+2019/04/06 10:45:00 
+2019/04/06 10:45:00 Work ready signal...check if there is a worker thread waiting
+2019/04/06 10:45:00 
+2019/04/06 10:45:00 Worker thread available
+2019/04/06 10:45:00 Sending signal on channel  0xc0000a8028
+2019/04/06 10:45:00 
+2019/04/06 10:45:00 Got message on a waiting work channel
+2019/04/06 10:45:00 Taking channel out of waiting and inserting into busy
+2019/04/06 10:45:00 
+2019/04/06 10:45:00 waiting channels  [0xc0000823c0 0xc000082180] 2
+2019/04/06 10:45:00 
+2019/04/06 10:45:00 working channels  [] 0
+2019/04/06 10:45:00 
+2019/04/06 10:45:00 Finished performing string combine Bar, Baz!
+2019/04/06 10:45:00 ...sleeping for a bit
+2019/04/06 10:45:01 
+2019/04/06 10:45:01 Work ready signal...check if there is a worker thread waiting
+2019/04/06 10:45:01 
+2019/04/06 10:45:01 Worker thread available
+2019/04/06 10:45:01 Sending signal on channel  0xc0000a8030
+2019/04/06 10:45:01 
+2019/04/06 10:45:01 Got message on a waiting work channel
+2019/04/06 10:45:01 Taking channel out of waiting and inserting into busy
+2019/04/06 10:45:01 
+2019/04/06 10:45:01 waiting channels  [0xc000082180] 1
+2019/04/06 10:45:01 
+2019/04/06 10:45:01 working channels  [] 0
+2019/04/06 10:45:01 
+2019/04/06 10:45:01 Finished performing string combine Baz, Spaz!
+2019/04/06 10:45:01 ...sleeping for a bit
+2019/04/06 10:45:02 
+2019/04/06 10:45:02 Work ready signal...check if there is a worker thread waiting
+2019/04/06 10:45:02 
+2019/04/06 10:45:02 Worker thread available
+2019/04/06 10:45:02 Sending signal on channel  0xc0000a8038
+2019/04/06 10:45:02 
+2019/04/06 10:45:02 Got message on a waiting work channel
+2019/04/06 10:45:02 Taking channel out of waiting and inserting into busy
+2019/04/06 10:45:02 
+2019/04/06 10:45:02 waiting channels  [] 0
+2019/04/06 10:45:02 
+2019/04/06 10:45:02 working channels  [] 0
+2019/04/06 10:45:02 
+2019/04/06 10:45:02 Finished performing string combine Raz, Taz!
+2019/04/06 10:45:02 ...sleeping for a bit
+2019/04/06 10:45:03 
+2019/04/06 10:45:03 no waiting work. Starting waiting loop
+2019/04/06 10:45:03 
+2019/04/06 10:45:03 All workers are busy. Running wait loop to clear out work queue
+2019/04/06 10:45:03 len wq.work check claims > 0. Actual 1
+2019/04/06 10:45:08 pushing channel with address 0xc0000a8000 back in waiting work
+2019/04/06 10:45:08 
+2019/04/06 10:45:08 got work waiting signal from goroutine on channel 0xc0000a4058
+2019/04/06 10:45:08 len wq.work during signal 1
+2019/04/06 10:45:08 
+2019/04/06 10:45:08 Worker thread available
+2019/04/06 10:45:08 Sending signal on channel  0xc0000d6010
+2019/04/06 10:45:08 len wq.work after signal 1
+2019/04/06 10:45:08 len wq.work check claims > 0. Actual 1
+2019/04/06 10:45:08 
+2019/04/06 10:45:08 Got message on a waiting work channel
+2019/04/06 10:45:08 Taking channel out of waiting and inserting into busy
+2019/04/06 10:45:08 
+2019/04/06 10:45:08 waiting channels  [] 0
+2019/04/06 10:45:08 
+2019/04/06 10:45:08 working channels  [] 0
+2019/04/06 10:45:08 
+2019/04/06 10:45:08 Finished performing string combine Mad, Lad!
+2019/04/06 10:45:08 ...sleeping for a bit
+2019/04/06 10:45:09 pushing channel with address 0xc0000d6000 back in waiting work
+2019/04/06 10:45:09 
+2019/04/06 10:45:09 got work waiting signal from goroutine on channel 0xc0000a4058
+2019/04/06 10:45:09 len wq.work during signal 0
+2019/04/06 10:45:09 len wq.work check claims 0. Actual 0
+2019/04/06 10:45:10 pushing channel with address 0xc0000ac000 back in waiting work
+2019/04/06 10:45:11 pushing channel with address 0xc0000ac008 back in waiting work
+2019/04/06 10:45:12 pushing channel with address 0xc00000c040 back in waiting work
+2019/04/06 10:45:18 pushing channel with address 0xc0000a8000 back in waiting work
+2019/04/06 11:09:30 =======================================
+2019/04/06 11:09:30 		Logr initialized
+2019/04/06 11:09:30 =======================================
+2019/04/06 11:09:30 
+2019/04/06 11:09:30 Starting main WQ run loop on goroutine
+2019/04/06 11:09:30 Starting workers
+2019/04/06 11:09:30 waiting for workers to finish
+2019/04/06 11:09:30 Sleeping to wait for workers
+2019/04/06 11:09:30 Inserted channel 1 with address 0xc0000a6000 into waitingQueue
+2019/04/06 11:09:30 Starting worker 1
+2019/04/06 11:09:30 waiting for work on work channel
+2019/04/06 11:09:30 Inserted channel 2 with address 0xc0000d4000 into waitingQueue
+2019/04/06 11:09:30 Starting worker 2
+2019/04/06 11:09:30 waiting for work on work channel
+2019/04/06 11:09:30 Inserted channel 3 with address 0xc0000a8000 into waitingQueue
+2019/04/06 11:09:30 Starting worker 3
+2019/04/06 11:09:30 waiting for work on work channel
+2019/04/06 11:09:30 Inserted channel 4 with address 0xc0000a8008 into waitingQueue
+2019/04/06 11:09:30 Starting worker 4
+2019/04/06 11:09:30 waiting for work on work channel
+2019/04/06 11:09:30 Inserted channel 5 with address 0xc0000a8010 into waitingQueue
+2019/04/06 11:09:30 Starting worker 5
+2019/04/06 11:09:30 waiting for work on work channel
+2019/04/06 11:09:35 
+2019/04/06 11:09:35 About to work
+2019/04/06 11:09:35 Work ready signal...check if there is a worker thread waiting
+2019/04/06 11:09:35 
+2019/04/06 11:09:35 Worker thread available
+2019/04/06 11:09:35 Sending signal on channel  0xc0000a6010
+2019/04/06 11:09:35 
+2019/04/06 11:09:35 Got message on a waiting work channel
+2019/04/06 11:09:42 =======================================
+2019/04/06 11:09:42 		Logr initialized
+2019/04/06 11:09:42 =======================================
+2019/04/06 11:09:42 
+2019/04/06 11:09:42 Starting main WQ run loop on goroutine
+2019/04/06 11:09:42 Starting workers
+2019/04/06 11:09:42 waiting for workers to finish
+2019/04/06 11:09:42 Sleeping to wait for workers
+2019/04/06 11:09:42 Inserted channel 1 with address 0xc0000a6000 into waitingQueue
+2019/04/06 11:09:42 Starting worker 1
+2019/04/06 11:09:42 waiting for work on work channel
+2019/04/06 11:09:42 Inserted channel 2 with address 0xc0000d4000 into waitingQueue
+2019/04/06 11:09:42 Starting worker 2
+2019/04/06 11:09:42 waiting for work on work channel
+2019/04/06 11:09:42 Inserted channel 3 with address 0xc0000aa008 into waitingQueue
+2019/04/06 11:09:42 Starting worker 3
+2019/04/06 11:09:42 waiting for work on work channel
+2019/04/06 11:09:42 Inserted channel 4 with address 0xc0000aa010 into waitingQueue
+2019/04/06 11:09:42 Starting worker 4
+2019/04/06 11:09:42 waiting for work on work channel
+2019/04/06 11:09:42 Inserted channel 5 with address 0xc0000aa000 into waitingQueue
+2019/04/06 11:09:42 Starting worker 5
+2019/04/06 11:09:42 waiting for work on work channel
+2019/04/06 11:09:47 
+2019/04/06 11:09:47 About to work
+2019/04/06 11:09:47 Work ready signal...check if there is a worker thread waiting
+2019/04/06 11:09:47 
+2019/04/06 11:09:47 Worker thread available
+2019/04/06 11:09:47 Sending signal on channel  0xc0000a6010
+2019/04/06 11:09:47 
+2019/04/06 11:09:47 Got message on a waiting work channel
+2019/04/06 11:11:48 =======================================
+2019/04/06 11:11:48 		Logr initialized
+2019/04/06 11:11:48 =======================================
+2019/04/06 11:11:48 
+2019/04/06 11:11:48 Starting main WQ run loop on goroutine
+2019/04/06 11:11:48 Starting workers
+2019/04/06 11:11:48 waiting for workers to finish
+2019/04/06 11:11:48 Sleeping to wait for workers
+2019/04/06 11:11:48 Inserted channel 1 with address 0xc0000a6000 into waitingQueue
+2019/04/06 11:11:48 Starting worker 1
+2019/04/06 11:11:48 waiting for work on work channel
+2019/04/06 11:11:48 Inserted channel 2 with address 0xc0000d4000 into waitingQueue
+2019/04/06 11:11:48 Starting worker 2
+2019/04/06 11:11:48 waiting for work on work channel
+2019/04/06 11:11:48 Inserted channel 3 with address 0xc0000aa000 into waitingQueue
+2019/04/06 11:11:48 Starting worker 3
+2019/04/06 11:11:48 waiting for work on work channel
+2019/04/06 11:11:48 Inserted channel 4 with address 0xc0000aa008 into waitingQueue
+2019/04/06 11:11:48 Starting worker 4
+2019/04/06 11:11:48 waiting for work on work channel
+2019/04/06 11:11:48 Inserted channel 5 with address 0xc0000aa010 into waitingQueue
+2019/04/06 11:11:48 Starting worker 5
+2019/04/06 11:11:48 waiting for work on work channel
+2019/04/06 11:11:53 
+2019/04/06 11:11:53 About to work
+2019/04/06 11:11:53 Work ready signal...check if there is a worker thread waiting
+2019/04/06 11:11:53 
+2019/04/06 11:11:53 Worker thread available
+2019/04/06 11:11:53 Sending signal on channel  0xc0000d4010
+2019/04/06 11:11:53 
+2019/04/06 11:11:53 Got message on a waiting work channel
+2019/04/06 11:16:38 =======================================
+2019/04/06 11:16:38 		Logr initialized
+2019/04/06 11:16:38 =======================================
+2019/04/06 11:16:38 
+2019/04/06 11:16:38 Starting main WQ run loop on goroutine
+2019/04/06 11:16:38 Starting workers
+2019/04/06 11:16:38 waiting for workers to finish
+2019/04/06 11:16:38 Sleeping to wait for workers
+2019/04/06 11:16:38 Inserted channel 1 with address 0xc0000a6000 into waitingQueue
+2019/04/06 11:16:38 Starting worker 1
+2019/04/06 11:16:38 waiting for work on work channel
+2019/04/06 11:16:38 Inserted channel 2 with address 0xc0000d4000 into waitingQueue
+2019/04/06 11:16:38 Starting worker 2
+2019/04/06 11:16:38 waiting for work on work channel
+2019/04/06 11:16:38 Inserted channel 3 with address 0xc0000aa000 into waitingQueue
+2019/04/06 11:16:38 Starting worker 3
+2019/04/06 11:16:38 waiting for work on work channel
+2019/04/06 11:16:38 Inserted channel 4 with address 0xc0000aa008 into waitingQueue
+2019/04/06 11:16:38 Starting worker 4
+2019/04/06 11:16:38 waiting for work on work channel
+2019/04/06 11:16:38 Inserted channel 5 with address 0xc00000c040 into waitingQueue
+2019/04/06 11:16:38 Starting worker 5
+2019/04/06 11:16:38 waiting for work on work channel
+2019/04/06 11:16:43 
+2019/04/06 11:16:43 About to work
+2019/04/06 11:16:43 Work ready signal...check if there is a worker thread waiting
+2019/04/06 11:16:43 
+2019/04/06 11:16:43 Worker thread available
+2019/04/06 11:16:43 Sending signal on channel  0xc0000d4010
+2019/04/06 11:16:43 
+2019/04/06 11:16:43 Got message on a waiting work channel
+2019/04/06 11:16:43 currentwork job id:  0000a0
+2019/04/06 11:16:43 
+2019/04/06 11:16:43 waiting channels  [0xc000082300 0xc0000820c0 0xc000082240 0xc0000823c0] 4
+2019/04/06 11:16:43 working channels  map[] 0
+2019/04/06 11:16:43 
+2019/04/06 11:16:43 Finished performing string combine Hello, World!
+2019/04/06 11:16:43 ...sleeping for a bit
+2019/04/06 11:16:44 Work ready signal...check if there is a worker thread waiting
+2019/04/06 11:16:44 
+2019/04/06 11:16:44 Worker thread available
+2019/04/06 11:16:44 Sending signal on channel  0xc0000d4018
+2019/04/06 11:16:44 
+2019/04/06 11:16:44 Got message on a waiting work channel
+2019/04/06 11:16:44 currentwork job id:  0000a1
+2019/04/06 11:16:44 
+2019/04/06 11:16:44 waiting channels  [0xc0000820c0 0xc000082240 0xc0000823c0] 3
+2019/04/06 11:16:44 working channels  map[] 0
+2019/04/06 11:16:44 
+2019/04/06 11:16:44 Finished performing string combine Foo, Bar!
+2019/04/06 11:16:44 ...sleeping for a bit
+2019/04/06 11:16:45 Work ready signal...check if there is a worker thread waiting
+2019/04/06 11:16:45 
+2019/04/06 11:16:45 Worker thread available
+2019/04/06 11:16:45 Sending signal on channel  0xc0000a6018
+2019/04/06 11:16:45 
+2019/04/06 11:16:45 Got message on a waiting work channel
+2019/04/06 11:16:45 currentwork job id:  0000a2
+2019/04/06 11:16:45 
+2019/04/06 11:16:45 waiting channels  [0xc000082240 0xc0000823c0] 2
+2019/04/06 11:16:45 working channels  map[] 0
+2019/04/06 11:16:45 
+2019/04/06 11:16:45 Finished performing string combine Bar, Baz!
+2019/04/06 11:16:45 ...sleeping for a bit
+2019/04/06 11:16:46 Work ready signal...check if there is a worker thread waiting
+2019/04/06 11:16:46 
+2019/04/06 11:16:46 Worker thread available
+2019/04/06 11:16:46 Sending signal on channel  0xc0000a6020
+2019/04/06 11:16:46 
+2019/04/06 11:16:46 Got message on a waiting work channel
+2019/04/06 11:16:46 currentwork job id:  0000a3
+2019/04/06 11:16:46 
+2019/04/06 11:16:46 waiting channels  [0xc0000823c0] 1
+2019/04/06 11:16:46 working channels  map[] 0
+2019/04/06 11:16:46 
+2019/04/06 11:16:46 Finished performing string combine Baz, Spaz!
+2019/04/06 11:16:46 ...sleeping for a bit
+2019/04/06 11:16:47 Work ready signal...check if there is a worker thread waiting
+2019/04/06 11:16:47 
+2019/04/06 11:16:47 Worker thread available
+2019/04/06 11:16:47 Sending signal on channel  0xc0000a6028
+2019/04/06 11:16:47 
+2019/04/06 11:16:47 Got message on a waiting work channel
+2019/04/06 11:16:47 currentwork job id:  0000a4
+2019/04/06 11:16:47 
+2019/04/06 11:16:47 waiting channels  [] 0
+2019/04/06 11:16:47 working channels  map[] 0
+2019/04/06 11:16:47 
+2019/04/06 11:16:47 Finished performing string combine Raz, Taz!
+2019/04/06 11:16:47 ...sleeping for a bit
+2019/04/06 11:16:48 
+2019/04/06 11:16:48 no waiting work. Starting waiting loop
+2019/04/06 11:16:48 
+2019/04/06 11:16:48 All workers are busy. Running wait loop to clear out work queue
+2019/04/06 11:16:48 len wq.work check claims > 0. Actual 1
+2019/04/06 11:16:53 pushing channel with address 0xc0000a6000 back in waiting work
+2019/04/06 11:16:53 
+2019/04/06 11:16:53 got work waiting signal from goroutine on channel 0xc000064288
+2019/04/06 11:16:53 len wq.work during signal 1
+2019/04/06 11:16:53 
+2019/04/06 11:16:53 Worker thread available
+2019/04/06 11:16:53 Sending signal on channel  0xc0000d4020
+2019/04/06 11:16:53 len wq.work after signal 1
+2019/04/06 11:16:53 len wq.work check claims > 0. Actual 1
+2019/04/06 11:16:53 
+2019/04/06 11:16:53 Got message on a waiting work channel
+2019/04/06 11:16:53 currentwork job id:  0000a5
+2019/04/06 11:16:53 
+2019/04/06 11:16:53 waiting channels  [] 0
+2019/04/06 11:16:53 working channels  map[] 0
+2019/04/06 11:16:53 
+2019/04/06 11:16:53 Finished performing string combine Mad, Lad!
+2019/04/06 11:16:53 ...sleeping for a bit
+2019/04/06 11:16:54 pushing channel with address 0xc0000d4000 back in waiting work
+2019/04/06 11:16:54 
+2019/04/06 11:16:54 got work waiting signal from goroutine on channel 0xc000064288
+2019/04/06 11:16:54 len wq.work during signal 0
+2019/04/06 11:16:54 len wq.work check claims 0. Actual 0
+2019/04/06 11:16:55 pushing channel with address 0xc0000aa000 back in waiting work
+2019/04/06 11:16:56 pushing channel with address 0xc0000aa008 back in waiting work
+2019/04/06 11:16:57 pushing channel with address 0xc00000c040 back in waiting work
+2019/04/06 11:17:03 pushing channel with address 0xc0000a6000 back in waiting work
+2019/04/06 11:17:59 =======================================
+2019/04/06 11:17:59 		Logr initialized
+2019/04/06 11:17:59 =======================================
+2019/04/06 11:17:59 
+2019/04/06 11:17:59 Starting main WQ run loop on goroutine
+2019/04/06 11:17:59 Starting workers
+2019/04/06 11:17:59 waiting for workers to finish
+2019/04/06 11:17:59 Sleeping to wait for workers
+2019/04/06 11:17:59 Inserted channel 1 with address 0xc0000a6000 into waitingQueue
+2019/04/06 11:17:59 Starting worker 1
+2019/04/06 11:17:59 waiting for work on work channel
+2019/04/06 11:17:59 Inserted channel 2 with address 0xc0000dc000 into waitingQueue
+2019/04/06 11:17:59 Starting worker 2
+2019/04/06 11:17:59 waiting for work on work channel
+2019/04/06 11:17:59 Inserted channel 3 with address 0xc0000aa008 into waitingQueue
+2019/04/06 11:17:59 Starting worker 3
+2019/04/06 11:17:59 waiting for work on work channel
+2019/04/06 11:17:59 Inserted channel 4 with address 0xc00000c040 into waitingQueue
+2019/04/06 11:17:59 Starting worker 4
+2019/04/06 11:17:59 waiting for work on work channel
+2019/04/06 11:17:59 Inserted channel 5 with address 0xc0000aa000 into waitingQueue
+2019/04/06 11:17:59 Starting worker 5
+2019/04/06 11:17:59 waiting for work on work channel
+2019/04/06 11:18:04 
+2019/04/06 11:18:04 About to work
+2019/04/06 11:18:04 Work ready signal...check if there is a worker thread waiting
+2019/04/06 11:18:04 
+2019/04/06 11:18:04 Worker thread available
+2019/04/06 11:18:04 Sending signal on channel  0xc0000dc008
+2019/04/06 11:18:04 
+2019/04/06 11:18:04 Got message on a waiting work channel
+2019/04/06 11:18:04 currentwork job id:  0000a0
+2019/04/06 11:18:59 =======================================
+2019/04/06 11:18:59 		Logr initialized
+2019/04/06 11:18:59 =======================================
+2019/04/06 11:18:59 
+2019/04/06 11:18:59 Starting main WQ run loop on goroutine
+2019/04/06 11:18:59 Starting workers
+2019/04/06 11:18:59 waiting for workers to finish
+2019/04/06 11:18:59 Sleeping to wait for workers
+2019/04/06 11:18:59 Inserted channel 1 with address 0xc0000a6000 into waitingQueue
+2019/04/06 11:18:59 Starting worker 1
+2019/04/06 11:18:59 waiting for work on work channel
+2019/04/06 11:18:59 Inserted channel 2 with address 0xc0000a8008 into waitingQueue
+2019/04/06 11:18:59 Starting worker 2
+2019/04/06 11:18:59 waiting for work on work channel
+2019/04/06 11:18:59 Inserted channel 3 with address 0xc0000a8000 into waitingQueue
+2019/04/06 11:18:59 Starting worker 3
+2019/04/06 11:18:59 waiting for work on work channel
+2019/04/06 11:18:59 Inserted channel 4 with address 0xc00000c040 into waitingQueue
+2019/04/06 11:18:59 Starting worker 4
+2019/04/06 11:18:59 waiting for work on work channel
+2019/04/06 11:18:59 Inserted channel 5 with address 0xc0000e4000 into waitingQueue
+2019/04/06 11:18:59 Starting worker 5
+2019/04/06 11:18:59 waiting for work on work channel
+2019/04/06 11:19:04 
+2019/04/06 11:19:04 About to work
+2019/04/06 11:19:04 Work ready signal...check if there is a worker thread waiting
+2019/04/06 11:19:04 
+2019/04/06 11:19:04 Worker thread available
+2019/04/06 11:19:04 Sending signal on channel  0xc00010a008
+2019/04/06 11:19:04 
+2019/04/06 11:19:04 Got message on a waiting work channel
+2019/04/06 11:19:04 currentwork job id:  0000a0
+2019/04/06 11:19:04 waiting channels  [0xc000082300 0xc0000820c0 0xc000082180 0xc0000823c0] 4
+2019/04/06 11:19:04 working channels  map[0000a0:0xc000082240] 1
+2019/04/06 11:19:04 
+2019/04/06 11:19:04 
+2019/04/06 11:19:04 Finished performing string combine Hello, World!
+2019/04/06 11:19:04 ...sleeping for a bit
+2019/04/06 11:19:05 Work ready signal...check if there is a worker thread waiting
+2019/04/06 11:19:05 
+2019/04/06 11:19:05 Worker thread available
+2019/04/06 11:19:05 Sending signal on channel  0xc00010a010
+2019/04/06 11:19:05 
+2019/04/06 11:19:05 Got message on a waiting work channel
+2019/04/06 11:19:05 currentwork job id:  0000a1
+2019/04/06 11:19:05 waiting channels  [0xc0000820c0 0xc000082180 0xc0000823c0] 3
+2019/04/06 11:19:05 working channels  map[0000a0:0xc000082240 0000a1:0xc000082300] 2
+2019/04/06 11:19:05 
+2019/04/06 11:19:05 
+2019/04/06 11:19:05 Finished performing string combine Foo, Bar!
+2019/04/06 11:19:05 ...sleeping for a bit
+2019/04/06 11:19:06 Work ready signal...check if there is a worker thread waiting
+2019/04/06 11:19:06 
+2019/04/06 11:19:06 Worker thread available
+2019/04/06 11:19:06 Sending signal on channel  0xc00010a018
+2019/04/06 11:19:06 
+2019/04/06 11:19:06 Got message on a waiting work channel
+2019/04/06 11:19:06 currentwork job id:  0000a2
+2019/04/06 11:19:06 waiting channels  [0xc000082180 0xc0000823c0] 2
+2019/04/06 11:19:06 working channels  map[0000a0:0xc000082240 0000a1:0xc000082300 0000a2:0xc0000820c0] 3
+2019/04/06 11:19:06 
+2019/04/06 11:19:06 
+2019/04/06 11:19:06 Finished performing string combine Bar, Baz!
+2019/04/06 11:19:06 ...sleeping for a bit
+2019/04/06 11:19:07 Work ready signal...check if there is a worker thread waiting
+2019/04/06 11:19:07 
+2019/04/06 11:19:07 Worker thread available
+2019/04/06 11:19:07 Sending signal on channel  0xc00010a020
+2019/04/06 11:19:07 
+2019/04/06 11:19:07 Got message on a waiting work channel
+2019/04/06 11:19:07 currentwork job id:  0000a3
+2019/04/06 11:19:07 waiting channels  [0xc0000823c0] 1
+2019/04/06 11:19:07 working channels  map[0000a3:0xc000082180 0000a0:0xc000082240 0000a1:0xc000082300 0000a2:0xc0000820c0] 4
+2019/04/06 11:19:07 
+2019/04/06 11:19:07 
+2019/04/06 11:19:07 Finished performing string combine Baz, Spaz!
+2019/04/06 11:19:07 ...sleeping for a bit
+2019/04/06 11:19:08 Work ready signal...check if there is a worker thread waiting
+2019/04/06 11:19:08 
+2019/04/06 11:19:08 Worker thread available
+2019/04/06 11:19:08 Sending signal on channel  0xc00010a028
+2019/04/06 11:19:08 
+2019/04/06 11:19:08 Got message on a waiting work channel
+2019/04/06 11:19:08 currentwork job id:  0000a4
+2019/04/06 11:19:08 waiting channels  [] 0
+2019/04/06 11:19:08 working channels  map[0000a3:0xc000082180 0000a4:0xc0000823c0 0000a0:0xc000082240 0000a1:0xc000082300 0000a2:0xc0000820c0] 5
+2019/04/06 11:19:08 
+2019/04/06 11:19:08 
+2019/04/06 11:19:08 Finished performing string combine Raz, Taz!
+2019/04/06 11:19:08 ...sleeping for a bit
+2019/04/06 11:19:09 
+2019/04/06 11:19:09 no waiting work. Starting waiting loop
+2019/04/06 11:19:09 
+2019/04/06 11:19:09 All workers are busy. Running wait loop to clear out work queue
+2019/04/06 11:19:09 len wq.work check claims > 0. Actual 1
+2019/04/06 11:19:14 pushing channel with address 0xc0000a6000 back in waiting work
+2019/04/06 11:19:14 waiting channels  [0xc000082240] 1
+2019/04/06 11:19:14 working channels  map[0000a2:0xc0000820c0 0000a3:0xc000082180 0000a4:0xc0000823c0 0000a1:0xc000082300] 4
+2019/04/06 11:19:14 
+2019/04/06 11:19:14 got work waiting signal from goroutine on channel 0xc000064288
+2019/04/06 11:19:14 len wq.work during signal 1
+2019/04/06 11:19:14 
+2019/04/06 11:19:14 Worker thread available
+2019/04/06 11:19:14 Sending signal on channel  0xc0000a8010
+2019/04/06 11:19:14 len wq.work after signal 1
+2019/04/06 11:19:14 len wq.work check claims > 0. Actual 1
+2019/04/06 11:19:14 
+2019/04/06 11:19:14 Got message on a waiting work channel
+2019/04/06 11:19:14 currentwork job id:  0000a5
+2019/04/06 11:19:14 waiting channels  [] 0
+2019/04/06 11:19:14 working channels  map[0000a5:0xc000082240 0000a1:0xc000082300 0000a2:0xc0000820c0 0000a3:0xc000082180 0000a4:0xc0000823c0] 5
+2019/04/06 11:19:14 
+2019/04/06 11:19:14 
+2019/04/06 11:19:14 Finished performing string combine Mad, Lad!
+2019/04/06 11:19:14 ...sleeping for a bit
+2019/04/06 11:19:15 pushing channel with address 0xc0000a8008 back in waiting work
+2019/04/06 11:19:15 waiting channels  [0xc000082300] 1
+2019/04/06 11:19:15 working channels  map[0000a2:0xc0000820c0 0000a3:0xc000082180 0000a4:0xc0000823c0 0000a5:0xc000082240] 4
+2019/04/06 11:19:15 
+2019/04/06 11:19:15 got work waiting signal from goroutine on channel 0xc000064288
+2019/04/06 11:19:15 len wq.work during signal 0
+2019/04/06 11:19:15 len wq.work check claims 0. Actual 0
+2019/04/06 11:19:16 pushing channel with address 0xc0000a8000 back in waiting work
+2019/04/06 11:19:16 waiting channels  [0xc000082300 0xc0000820c0] 2
+2019/04/06 11:19:16 working channels  map[0000a3:0xc000082180 0000a4:0xc0000823c0 0000a5:0xc000082240] 3
+2019/04/06 11:19:17 pushing channel with address 0xc00000c040 back in waiting work
+2019/04/06 11:19:17 waiting channels  [0xc000082300 0xc0000820c0 0xc000082180] 3
+2019/04/06 11:19:17 working channels  map[0000a4:0xc0000823c0 0000a5:0xc000082240] 2
+2019/04/06 11:19:18 pushing channel with address 0xc0000e4000 back in waiting work
+2019/04/06 11:19:18 waiting channels  [0xc000082300 0xc0000820c0 0xc000082180 0xc0000823c0] 4
+2019/04/06 11:19:18 working channels  map[0000a5:0xc000082240] 1
+2019/04/06 11:19:24 pushing channel with address 0xc0000a6000 back in waiting work
+2019/04/06 11:19:24 waiting channels  [0xc000082300 0xc0000820c0 0xc000082180 0xc0000823c0 0xc000082240] 5
+2019/04/06 11:19:24 working channels  map[] 0
+2019/04/06 11:24:29 =======================================
+2019/04/06 11:24:29 		Logr initialized
+2019/04/06 11:24:29 =======================================
+2019/04/06 11:24:29 
+2019/04/06 11:24:29 Starting main WQ run loop on goroutine
+2019/04/06 11:24:29 Starting workers
+2019/04/06 11:24:29 waiting for workers to finish
+2019/04/06 11:24:29 Sleeping to wait for workers
+2019/04/06 11:24:29 Inserted channel 1 with address 0xc0000a6000 into waitingQueue
+2019/04/06 11:24:29 Starting worker 1
+2019/04/06 11:24:29 waiting for work on work channel
+2019/04/06 11:24:29 Inserted channel 2 with address 0xc0000a8000 into waitingQueue
+2019/04/06 11:24:29 Starting worker 2
+2019/04/06 11:24:29 waiting for work on work channel
+2019/04/06 11:24:29 Inserted channel 3 with address 0xc0000a8008 into waitingQueue
+2019/04/06 11:24:29 Starting worker 3
+2019/04/06 11:24:29 waiting for work on work channel
+2019/04/06 11:24:29 Inserted channel 4 with address 0xc0000a8010 into waitingQueue
+2019/04/06 11:24:29 Starting worker 4
+2019/04/06 11:24:29 waiting for work on work channel
+2019/04/06 11:24:29 Inserted channel 5 with address 0xc0000d8000 into waitingQueue
+2019/04/06 11:24:29 Starting worker 5
+2019/04/06 11:24:29 waiting for work on work channel
+2019/04/06 11:24:34 
+2019/04/06 11:24:34 About to work
+2019/04/06 11:24:34 Work ready signal...check if there is a worker thread waiting
+2019/04/06 11:24:34 
+2019/04/06 11:24:34 Worker thread available
+2019/04/06 11:24:34 Sending signal on channel  0xc0000d8008
+2019/04/06 11:24:34 
+2019/04/06 11:24:34 Got message on a waiting work channel
+2019/04/06 11:24:34 currentwork job id:  0000a0
+2019/04/06 11:24:34 waiting channels  [0xc000082300 0xc0000820c0 0xc0000823c0 0xc000082240] 4
+2019/04/06 11:24:34 working channels  map[0000a0:0xc000082180] 1
+2019/04/06 11:24:34 
+2019/04/06 11:24:34 
+2019/04/06 11:24:34 Finished performing string combine Hello, World!
+2019/04/06 11:24:34 ...sleeping for a bit
+2019/04/06 11:24:35 Work ready signal...check if there is a worker thread waiting
+2019/04/06 11:24:35 
+2019/04/06 11:24:35 Worker thread available
+2019/04/06 11:24:35 Sending signal on channel  0xc0000d8018
+2019/04/06 11:24:35 
+2019/04/06 11:24:35 Got message on a waiting work channel
+2019/04/06 11:24:35 currentwork job id:  0000a1
+2019/04/06 11:24:35 waiting channels  [0xc0000820c0 0xc0000823c0 0xc000082240] 3
+2019/04/06 11:24:35 working channels  map[0000a0:0xc000082180 0000a1:0xc000082300] 2
+2019/04/06 11:24:35 
+2019/04/06 11:24:35 
+2019/04/06 11:24:35 Finished performing string combine Foo, Bar!
+2019/04/06 11:24:35 ...sleeping for a bit
+2019/04/06 11:24:36 Work ready signal...check if there is a worker thread waiting
+2019/04/06 11:24:36 
+2019/04/06 11:24:36 Worker thread available
+2019/04/06 11:24:36 Sending signal on channel  0xc0000d8020
+2019/04/06 11:24:36 
+2019/04/06 11:24:36 Got message on a waiting work channel
+2019/04/06 11:24:36 currentwork job id:  0000a2
+2019/04/06 11:24:36 waiting channels  [0xc0000823c0 0xc000082240] 2
+2019/04/06 11:24:36 working channels  map[0000a0:0xc000082180 0000a1:0xc000082300 0000a2:0xc0000820c0] 3
+2019/04/06 11:24:36 
+2019/04/06 11:24:36 
+2019/04/06 11:24:36 Finished performing string combine Bar, Baz!
+2019/04/06 11:24:36 ...sleeping for a bit
+2019/04/06 11:24:37 Work ready signal...check if there is a worker thread waiting
+2019/04/06 11:24:37 
+2019/04/06 11:24:37 Worker thread available
+2019/04/06 11:24:37 Sending signal on channel  0xc0000d8028
+2019/04/06 11:24:37 
+2019/04/06 11:24:37 Got message on a waiting work channel
+2019/04/06 11:24:37 currentwork job id:  0000a3
+2019/04/06 11:24:37 waiting channels  [0xc000082240] 1
+2019/04/06 11:24:37 working channels  map[0000a2:0xc0000820c0 0000a3:0xc0000823c0 0000a0:0xc000082180 0000a1:0xc000082300] 4
+2019/04/06 11:24:37 
+2019/04/06 11:24:37 
+2019/04/06 11:24:37 Finished performing string combine Baz, Spaz!
+2019/04/06 11:24:37 ...sleeping for a bit
+2019/04/06 11:24:38 Work ready signal...check if there is a worker thread waiting
+2019/04/06 11:24:38 
+2019/04/06 11:24:38 Worker thread available
+2019/04/06 11:24:38 Sending signal on channel  0xc0000d8030
+2019/04/06 11:24:38 
+2019/04/06 11:24:38 Got message on a waiting work channel
+2019/04/06 11:24:38 currentwork job id:  0000a4
+2019/04/06 11:24:38 waiting channels  [] 0
+2019/04/06 11:24:38 working channels  map[0000a4:0xc000082240 0000a0:0xc000082180 0000a1:0xc000082300 0000a2:0xc0000820c0 0000a3:0xc0000823c0] 5
+2019/04/06 11:24:38 
+2019/04/06 11:24:38 
+2019/04/06 11:24:38 Finished performing string combine Raz, Taz!
+2019/04/06 11:24:38 ...sleeping for a bit
+2019/04/06 11:24:39 
+2019/04/06 11:24:39 no waiting work. Starting waiting loop
+2019/04/06 11:24:39 
+2019/04/06 11:24:39 All workers are busy. Running wait loop to clear out work queue
+2019/04/06 11:24:39 len wq.work check claims > 0. Actual 1
+2019/04/06 11:24:40 
+2019/04/06 11:24:40 no waiting work. Starting waiting loop
+2019/04/06 11:24:44 pushing channel with address 0xc0000a6000 back in waiting work
+2019/04/06 11:24:44 waiting channels  [0xc000082180] 1
+2019/04/06 11:24:44 working channels  map[0000a3:0xc0000823c0 0000a4:0xc000082240 0000a1:0xc000082300 0000a2:0xc0000820c0] 4
+2019/04/06 11:24:44 
+2019/04/06 11:24:44 got work waiting signal from goroutine on channel 0xc000064288
+2019/04/06 11:24:44 len wq.work during signal 2
+2019/04/06 11:24:44 
+2019/04/06 11:24:44 Worker thread available
+2019/04/06 11:24:44 Sending signal on channel  0xc000102008
+2019/04/06 11:24:44 len wq.work after signal 2
+2019/04/06 11:24:44 len wq.work check claims > 0. Actual 2
+2019/04/06 11:24:44 
+2019/04/06 11:24:44 Got message on a waiting work channel
+2019/04/06 11:24:44 currentwork job id:  0000a5
+2019/04/06 11:24:44 waiting channels  [] 0
+2019/04/06 11:24:44 working channels  map[0000a5:0xc000082180 0000a1:0xc000082300 0000a2:0xc0000820c0 0000a3:0xc0000823c0 0000a4:0xc000082240] 5
+2019/04/06 11:24:44 
+2019/04/06 11:24:44 
+2019/04/06 11:24:44 Finished performing string combine Mad, Lad!
+2019/04/06 11:24:44 ...sleeping for a bit
+2019/04/06 11:24:45 pushing channel with address 0xc0000a8000 back in waiting work
+2019/04/06 11:24:45 waiting channels  [0xc000082300] 1
+2019/04/06 11:24:45 working channels  map[0000a2:0xc0000820c0 0000a3:0xc0000823c0 0000a4:0xc000082240 0000a5:0xc000082180] 4
+2019/04/06 11:24:45 
+2019/04/06 11:24:45 got work waiting signal from goroutine on channel 0xc000064288
+2019/04/06 11:24:45 len wq.work during signal 1
+2019/04/06 11:24:45 
+2019/04/06 11:24:45 Worker thread available
+2019/04/06 11:24:45 Sending signal on channel  0xc00000c040
+2019/04/06 11:24:45 len wq.work after signal 1
+2019/04/06 11:24:45 len wq.work check claims > 0. Actual 1
+2019/04/06 11:24:45 
+2019/04/06 11:24:45 Got message on a waiting work channel
+2019/04/06 11:24:45 currentwork job id:  0000a6
+2019/04/06 11:24:45 waiting channels  [] 0
+2019/04/06 11:24:45 working channels  map[0000a5:0xc000082180 0000a6:0xc000082300 0000a2:0xc0000820c0 0000a3:0xc0000823c0 0000a4:0xc000082240] 5
+2019/04/06 11:24:45 
+2019/04/06 11:24:45 
+2019/04/06 11:24:45 Finished performing string combine Dad, Sad!
+2019/04/06 11:24:45 ...sleeping for a bit
+2019/04/06 11:24:46 pushing channel with address 0xc0000a8008 back in waiting work
+2019/04/06 11:24:46 waiting channels  [0xc0000820c0] 1
+2019/04/06 11:24:46 working channels  map[0000a3:0xc0000823c0 0000a4:0xc000082240 0000a5:0xc000082180 0000a6:0xc000082300] 4
+2019/04/06 11:24:46 
+2019/04/06 11:24:46 got work waiting signal from goroutine on channel 0xc000064288
+2019/04/06 11:24:46 len wq.work during signal 0
+2019/04/06 11:24:46 len wq.work check claims 0. Actual 0
+2019/04/06 11:24:47 pushing channel with address 0xc0000a8010 back in waiting work
+2019/04/06 11:24:47 waiting channels  [0xc0000820c0 0xc0000823c0] 2
+2019/04/06 11:24:47 working channels  map[0000a4:0xc000082240 0000a5:0xc000082180 0000a6:0xc000082300] 3
+2019/04/06 11:24:48 pushing channel with address 0xc0000d8000 back in waiting work
+2019/04/06 11:24:48 waiting channels  [0xc0000820c0 0xc0000823c0 0xc000082240] 3
+2019/04/06 11:24:48 working channels  map[0000a5:0xc000082180 0000a6:0xc000082300] 2
+2019/04/06 11:24:54 pushing channel with address 0xc0000a6000 back in waiting work
+2019/04/06 11:24:54 waiting channels  [0xc0000820c0 0xc0000823c0 0xc000082240 0xc000082180] 4
+2019/04/06 11:24:54 working channels  map[0000a6:0xc000082300] 1
+2019/04/06 11:24:55 pushing channel with address 0xc0000a8000 back in waiting work
+2019/04/06 11:24:55 waiting channels  [0xc0000820c0 0xc0000823c0 0xc000082240 0xc000082180 0xc000082300] 5
+2019/04/06 11:24:55 working channels  map[] 0
